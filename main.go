@@ -9,7 +9,7 @@ import (
 	"path"
 	"time"
 
-	"git.yinge.tech/go/yinge_micro_tools/internal/project"
+	"github.com/topone4tvs/yinge_micro_tools/internal/project"
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/spf13/cobra"
 )
